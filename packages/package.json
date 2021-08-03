@@ -4,7 +4,13 @@
     "private": true,
     "main": "./index",
     "types": "./index.d.ts",
-    "author": "Ryan",
+    "author": "Ryan (Trong Do)",
+    "description": "Atomic CSS-in-JS with a featherweight runtime",
+    "bugs": "https://github.com/ryando997/acij/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ryando997/acij.git"
+    },
     "dependencies": {
         "@ryan/acij": "0.0.1",
         "@ryan/react-acij": "0.0.1"
