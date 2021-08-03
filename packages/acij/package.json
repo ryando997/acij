@@ -1,0 +1,10 @@
+{
+    "name": "@ryan/acij",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "@ryan/utils": "0.0.1"
+    }
+}

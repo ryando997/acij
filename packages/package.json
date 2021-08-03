@@ -1,0 +1,12 @@
+{
+    "name": "@ryan/packages",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./index",
+    "types": "./index.d.ts",
+    "author": "Ryan",
+    "dependencies": {
+        "@ryan/acij": "0.0.1",
+        "@ryan/react-acij": "0.0.1"
+    }
+}
